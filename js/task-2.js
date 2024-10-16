@@ -1,3 +1,5 @@
+console.log("second task starts here");
+
 function makeArray(firstArray, secondArray, maxLength) {
   const newArray = firstArray.concat(secondArray);
   if (newArray.length > maxLength) {

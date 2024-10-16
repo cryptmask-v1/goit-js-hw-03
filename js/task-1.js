@@ -1,3 +1,5 @@
+console.log("first task starts here");
+
 function slugify(title) {
   return title.toLowerCase().split(" ").join("-");
 }

@@ -1,3 +1,5 @@
+console.log("third task starts here");
+
 function filterArray(numbers, value) {
   const newArr = [];
   for (const number of numbers) {
